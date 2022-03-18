@@ -1,0 +1,6 @@
+framework module Pods_TwitterCl {
+  umbrella header "Pods-TwitterCl-umbrella.h"
+
+  export *
+  module * { export * }
+}
